@@ -1,0 +1,4 @@
+name: MaximusBungee
+version: '${project.version}'
+main: net.melodicalbuild.maximusbungee.MaximusBungee
+description: Maximus Announcement Plugin for Bungeecord
